@@ -12,8 +12,10 @@ body {
     top: 2em;
     left: 1em;
     width: 9em }
+
   h1 {
-    font-family:<'Times news Roman'}
+    font-family:<'Georgia, Times New Roman'}
+
   ul.navbar li {
     background: rgb(116, 218, 199);
     margin: 0.5em 0;
