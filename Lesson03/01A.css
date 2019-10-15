@@ -6,7 +6,8 @@ body {
     background-color: #201b3f }
 
   ul.navbar {
-    text-align; center
+    list-style-type: none;
+    text-align: center;
     list-style-type: none;
     padding: 0;
     margin: 0;
