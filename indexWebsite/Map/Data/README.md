@@ -1,2 +1,0 @@
-# interactivemap.github.io
- Interactivemapproject
