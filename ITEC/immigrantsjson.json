@@ -1,0 +1,57 @@
+[
+  {
+    "Year": 1960,
+    "Bachelor's degree": "2.50%",
+    "Postgraduate degree": "2.60%"
+  },
+  {
+    "Year": 1970,
+    "Bachelor's degree": "4.00%",
+    "Postgraduate degree": "5.00%"
+  },
+  {
+    "Year": 1980,
+    "Bachelor's degree": "7.00%",
+    "Postgraduate degree": "8.70%"
+  },
+  {
+    "Year": 1990,
+    "Bachelor's degree": "11.50%",
+    "Postgraduate degree": "8.80%"
+  },
+  {
+    "Year": 2000,
+    "Bachelor's degree": "13.70%",
+    "Postgraduate degree": "10.30%"
+  },
+  {
+    "Year": 2010,
+    "Bachelor's degree": "15.90%",
+    "Postgraduate degree": "11.10%"
+  },
+  {
+    "Year": 2013,
+    "Bachelor's degree": "16.40%",
+    "Postgraduate degree": "11.90%"
+  },
+  {
+    "Year": 2014,
+    "Bachelor's degree": "16.60%",
+    "Postgraduate degree": "12.00%"
+  },
+  {
+    "Year": 2015,
+    "Bachelor's degree": "17.10%",
+    "Postgraduate degree": "12.60%"
+  },
+  {
+    "Year": 2016,
+    "Bachelor's degree": "17.20%",
+    "Postgraduate degree": "12.80%"
+  },
+  {
+    "Year": 2017,
+    "Bachelor's degree": "17.80%",
+    "Postgraduate degree": "13.40%"
+  }
+]
